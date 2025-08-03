@@ -4,9 +4,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishjadhav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-jadhav-zero/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ashishjadhav9900@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://github.com/Ashish1022)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://ashishport.vercel.app)
 
 </div>
 
